@@ -1,0 +1,44 @@
+
+.calculator_box {
+    padding: 20px;
+    text-align: left;
+    margin: 50px 0 0 40%;
+    border-radius: 25px;
+    flex: 1;
+    margin-right: 20px;
+    height: 300px;
+    background-color:white;
+    width: 310px;
+    font-family: Consolas;
+}
+#send_drop_down{
+    margin-top: 10px;
+    font-family: Consolas;
+    font-size: 20px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#receive_drop_down{
+    margin-top: 10px;
+    font-family: Consolas;
+    font-size: 20px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+#sended_value{
+
+    font-size: 20px;
+    margin-bottom: 20px;
+    width: 294px;
+}
+#received_value{
+    font-size: 20px;
+    margin-bottom: 20px;
+    width: 294px;
+}
+#calculate_button{
+    margin-top: 20px;
+    margin-left: 35%;
+    font-size: 20px;
+}
